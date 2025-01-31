@@ -39,6 +39,7 @@
 | [0020-valid-parentheses](https://github.com/saiaakash1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saiaakash1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/saiaakash1/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/saiaakash1/Leetcode/tree/master/0038-count-and-say) |
 ## Backtracking
 |  |
 | ------- |
