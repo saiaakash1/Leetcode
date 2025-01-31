@@ -67,4 +67,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saiaakash1/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/saiaakash1/Leetcode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/saiaakash1/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
